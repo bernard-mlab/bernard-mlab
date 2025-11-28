@@ -22,19 +22,16 @@
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/IoT-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=00C7B7)
 
-I'm a data analyst from Singapore, currently working at Essence, a digital advertising agency. When I'm not cracking my brain analyzing stuffs, I would tinker with some cool geeky stuffs on my raspberry pi or working on some webapps.
+I'm a Senior Anlaytics Engineer from Singapore, currently working at Delivery Hero (foodpanda). When I'm not cracking my brain analyzing stuffs, I would tinker with some cool geeky stuffs on my raspberry pi or working on some webapps.
 
-- 🌱 I’m currently learning: Cloud engineering, (_Up next..._) Golang, Ethical Hacking
+- 🌱 I’m currently learning: Prompt engineering, (_Up next..._) Workflow automation using AI
 - 👯 I’m looking to collaborate on anything awesome! (_Well, almost anything will fascinates me, so don't be shy!_)
-- 💬 Ask me about: marketing analytics, cycling, hiking, and **food**!
+- 💬 Ask me about: analytics, cycling, hiking, and **food**!
 - ⚡ Quirky fact: I've once camped in Sahara Desert. 
 
 <h3 align="left"> 📫 How to reach me </h3>
 
-Come on by to my personal blog [bernard-mlab.com](https://bernard-mlab.com/)! I'm a believer of life long learning, and this site shares with my readers, my analytics & digital marketing learning journey in the digital marketing world. You can also check out the links above where I shares some of my thoughts occasionally.
-
 If you saw value in something that I have created, please feel free to send over some [love](https://www.buymeacoffee.com/bernard), give me a shoutout at [@byeothoughts](https://twitter.com/byeothoughts).  
-
 
 <h3 align="left"> &#x1f4c8; GitHub Stats </h3>
 
